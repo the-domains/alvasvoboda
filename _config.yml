@@ -1,0 +1,28 @@
+name: AlvaSvoboda
+favicon: null
+layout_spectrum: 0.4867234753910452
+typography_spectrum: 0.8361147246323526
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2887027049437165
+  lightness: 0.5804252040106803
+  saturation: 0.9821990591008216
+  rhythmicContrast: 0.7743984195403755
+purpose: []
