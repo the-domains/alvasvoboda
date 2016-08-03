@@ -1,20 +1,4 @@
-name: AlvaSvoboda
-favicon: null
-layout_spectrum: 0.4867234753910452
 typography_spectrum: 0.8361147246323526
-title: 'Games, Management and the Fate of the Universe'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#c8a85d'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5804252040106803
   saturation: 0.9821990591008216
   rhythmicContrast: 0.7743984195403755
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4867234753910452
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: AlvaSvoboda
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Games, Management and the Fate of the Universe'
+description: Market Simulation Games
 purpose: []
