@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Aljo Svoboda
+    url: 'http://www.aljosvoboda.com'
+    type: external
 favicon: null
 title: 'Games, Management and the Fate of the Universe'
 description: Market Simulation Games
