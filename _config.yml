@@ -28,6 +28,9 @@ navigation:
   - name: Aljo Svoboda
     url: 'http://www.aljosvoboda.com'
     type: external
+  - name: Svobius -- an as-yet nonexistent indie game development company
+    url: 'http://svobi.us'
+    type: external
 favicon: null
 title: 'Games, Management and the Fate of the Universe'
 description: Market Simulation Games
