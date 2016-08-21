@@ -31,6 +31,11 @@ navigation:
   - name: Svobius -- an as-yet nonexistent indie game development company
     url: 'http://svobi.us'
     type: external
+  - name: >-
+      MarketSimulationGames -- an as-yet nonexistent company disrupting at the
+      nexus of markets, simulations, and g-g-g-games
+    url: 'http://marketsimulationgames.com'
+    type: external
 favicon: null
 title: 'Games, Management and the Fate of the Universe'
 description: Market Simulation Games
